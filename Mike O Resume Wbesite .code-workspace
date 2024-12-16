@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Mike O Resume Wbesite "
+		},
+		{
+			"path": "../startbootstrap-agency-gh-pages"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEBSITE"
+	}
+}
